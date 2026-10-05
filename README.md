@@ -1,5 +1,7 @@
 # Calculator App
 
+[![Stars](https://img.shields.io/github/stars/AlakhiarovSalekh/Calculator-App?style=social)](https://github.com/AlakhiarovSalekh/Calculator-App/stargazers)
+
 ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Desktop%20%7C%20Mobile-blue)
 ![React](https://img.shields.io/badge/React-Framework-61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-Mobile-61DAFB)
@@ -9,6 +11,10 @@
 A modern cross-platform calculator application built with React and React Native technologies.
 
 This project demonstrates how a single codebase can be used to create applications for multiple platforms including Web, Desktop, Android, and iOS while maintaining a consistent user experience.
+
+## Why this project
+
+This repository explores a shared application architecture across web, desktop, Android, and iOS. The interesting part is not only the calculator UI, but how logic is reused while rendering remains platform-aware.
 
 ## Features
 
@@ -183,6 +189,10 @@ Future improvements planned for the project:
 * Additional Mathematical Functions
 * Improved User Experience
 * Enhanced Performance
+
+## Contributing
+
+Bug fixes, documentation improvements, portability fixes, and focused enhancements are welcome through issues and pull requests.
 
 ## Repository
 
