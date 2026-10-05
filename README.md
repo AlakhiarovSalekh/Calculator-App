@@ -1,4 +1,4 @@
-# Calculator App
+# Cross-Platform Calculator App — React, React Native & Electron
 
 [![Stars](https://img.shields.io/github/stars/AlakhiarovSalekh/Calculator-App?style=social)](https://github.com/AlakhiarovSalekh/Calculator-App/stargazers)
 
