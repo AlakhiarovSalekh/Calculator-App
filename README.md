@@ -23,17 +23,7 @@ This project demonstrates how a single codebase can be used to create applicatio
 
 ## Screenshots
 
-### Mobile Apps (iOS & Android)
-
-![Mobile Apps](images/mobile-apps.png "Mobile Apps")
-
-### Desktop Apps (NW & Electron)
-
-![Desktop App](images/desktop-apps.png "Desktop App")
-
-### Website App
-
-![Website App](images/website-app.png "Website App")
+Screenshots are not currently included in this repository. The previous README referenced image files that are not present in the current repository tree.
 
 ## Libraries/tools
 
@@ -132,7 +122,7 @@ This approach minimizes code duplication and simplifies long-term maintenance.
 Clone the repository:
 
 ```bash
-git clone https://github.com/SALEKH7/Calculator-App.git
+git clone https://github.com/AlakhiarovSalekh/Calculator-App.git
 ```
 
 Install dependencies:
@@ -196,13 +186,13 @@ Future improvements planned for the project:
 
 ## Repository
 
-https://github.com/SALEKH7/Calculator-App
+https://github.com/AlakhiarovSalekh/Calculator-App
 
 ## Author
 
 **Alakhiarov Salekh**
 
-GitHub: https://github.com/SALEKH7
+GitHub: https://github.com/AlakhiarovSalekh
 
 ## License
 
