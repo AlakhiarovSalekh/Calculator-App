@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A modern cross-platform calculator application built with React and React Native technologies.
+A Modern Cross-Platform calculator application built with React and React Native technologies.
 
 This project demonstrates how a single codebase can be used to create applications for multiple platforms including Web, Desktop, Android, and iOS while maintaining a consistent user experience.
 
@@ -52,7 +52,7 @@ All the code is contained in the `src` directory, especially the 3 main entry fi
 
 ### Flux architecture actions/stores
 
-All the [flux](https://facebook.github.io/flux) architecture is share to 100% to all the different builds. This means that all the logic and data management code is done only once and reuse everywhere. This allows us to have an easy tests suite as well and to ensure that our code is working properly on all the devices.
+The [Flux](https://facebook.github.io/flux) architecture is fully shared across all builds. This means that the logic and data-management code is implemented once and reused across platforms. This allows us to have an easy tests suite as well and to ensure that our code is working properly on all the devices.
 
 ### Components
 
