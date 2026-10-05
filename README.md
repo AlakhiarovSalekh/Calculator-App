@@ -198,6 +198,12 @@ Bug fixes, documentation improvements, portability fixes, and focused enhancemen
 
 https://github.com/AlakhiarovSalekh/Calculator-App
 
+## More Projects by Salekh
+
+- [50 Projects — HTML, CSS & JavaScript](https://github.com/AlakhiarovSalekh/50-Projects-HTML-CSS-JavaScript) — 50 focused frontend practice projects.
+- [Weather App](https://github.com/AlakhiarovSalekh/Weather-App) — native Android weather application.
+- [Notes App](https://github.com/AlakhiarovSalekh/Notes-App) — modern Android notes app with Jetpack Compose.
+
 ## Author
 
 **Alakhiarov Salekh**
