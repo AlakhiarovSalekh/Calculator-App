@@ -198,6 +198,8 @@ Bug fixes, documentation improvements, portability fixes, and focused enhancemen
 
 https://github.com/AlakhiarovSalekh/Calculator-App
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [50 Projects — HTML, CSS & JavaScript](https://github.com/AlakhiarovSalekh/50-Projects-HTML-CSS-JavaScript) — 50 focused frontend practice projects.
