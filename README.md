@@ -56,9 +56,9 @@ The [Flux](https://facebook.github.io/flux) architecture is fully shared across 
 
 ### Components
 
-The real interest of the project is in how the components have been structured to shared most of their logic and only redefined what is specific to every device.
+The real interest of the project is in how the components are structured to share most of their logic while redefining only what is specific to each device.
 
-Basically, every component has a main `Class` which inherits a base `Class` containing all the logic. Then, the main component import a different Render function which has been selected during the build. The file extension `.ios.js`, `.android.js` or `.js` is used by the build tool to import only the right file.
+Basically, every component has a main `Class` which inherits a base `Class` containing all the logic. Then, the main component imports a different Render function selected during the build. The file extension `.ios.js`, `.android.js` or `.js` is used by the build tool to import only the right file.
 
 The `.native.js` files contain code that is shared between both mobile platforms (iOS & Android). Currently, the `.ios.js` and `.android.js` files compose this `.native.js` file since all code is shared right now. However, if a component needed to be different for platform specific reasons, that code would be included in the corresponding platform specific files.
 
